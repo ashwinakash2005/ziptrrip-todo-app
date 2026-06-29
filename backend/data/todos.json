@@ -1,0 +1,32 @@
+[
+  {
+    "id": "todo1",
+    "title": "Learn React",
+    "description": "Complete the React fundamentals course and build a practice project",
+    "completed": false,
+    "priority": "high",
+    "category": "work",
+    "createdAt": "2024-01-10T09:00:00.000Z",
+    "updatedAt": "2024-01-10T09:00:00.000Z"
+  },
+  {
+    "id": "todo2",
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread, vegetables, and chicken from the market",
+    "completed": true,
+    "priority": "medium",
+    "category": "shopping",
+    "createdAt": "2024-01-09T10:30:00.000Z",
+    "updatedAt": "2024-01-10T14:20:00.000Z"
+  },
+  {
+    "id": "todo3",
+    "title": "Morning exercise",
+    "description": "30 minutes jog or gym workout",
+    "completed": false,
+    "priority": "medium",
+    "category": "health",
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  }
+]

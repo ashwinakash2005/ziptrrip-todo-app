@@ -1,0 +1,9 @@
+.not-found-page { display: flex; justify-content: center; align-items: center; min-height: 60vh; padding: 20px; }
+.not-found-container { text-align: center; background: white; border-radius: 12px; padding: 60px 40px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.not-found-icon { font-size: 80px; margin-bottom: 20px; }
+.not-found-title { font-size: 72px; font-weight: 700; color: #667eea; margin: 0 0 12px 0; }
+.not-found-subtitle { font-size: 28px; font-weight: 600; color: #333; margin: 0 0 16px 0; }
+.not-found-message { font-size: 16px; color: #666; margin: 0 0 32px 0; line-height: 1.6; }
+.not-found-button { display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.2s ease; }
+.not-found-button:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(102,126,234,0.4); }
+@media (max-width: 480px) { .not-found-container { padding: 40px 20px; } .not-found-icon { font-size: 60px; } .not-found-title { font-size: 48px; } .not-found-subtitle { font-size: 22px; } .not-found-message { font-size: 14px; } }
